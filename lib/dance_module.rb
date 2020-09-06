@@ -1,4 +1,5 @@
 module FancyDance
+  module Dance
   module InstanceMethods
 
     def twirl
